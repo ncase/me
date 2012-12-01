@@ -1,5 +1,6 @@
-/public
+/me
 =======
 
-My public self.
+My beliefs, my dreams, my fears.
 
+inspiration from [buster](https://github.com/busterbenson/public)

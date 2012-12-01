@@ -1,97 +1,44 @@
 My beliefs
 ==========
 
-On Morality
------------
-* Gay marriage should be legal everywhere
-* Being good is in our nature (being evil requires misinformation or partial information)
-* Abortion should be legal
-* Assisted suicide should be legal
-* Health care should be available to everyone who needs it
-* The death penalty should be used in extreme and certain cases to protect the public
-* Prisons should be about protecting the public, not about punishing the criminal
-* The world's average morality is improving as it becomes more connected
-* Marijuana should be legal to grow, sell, buy, and carry
-
-On Spirituality
----------------
-* Souls don't exist
-* The Gods of organized religion don't exist
-* Intention can't create reality (it just changes our perception of it)
-* Astrology is entertainment
-* Magic and miracles don't exist
-* There is no heaven/hell
-* We don't have a purpose given to us, but we can make one up
-
-On Science
-----------
-* Other dimensions and universes exist
-* Micro and macro evolution happens
-* Something like the Big Bang happened
-* Something existed before the Big Bang (outside of time and space as we know them)
-* Nothing in our universe will travel faster than light
-* The human brain (in its current state of evolution) can't comprehend the universe
-
-On Health
+On Making
 ---------
-* We can change our behavior and habits (it requires a lot of energy)
-* Consistently eating well and exercising is the only way to be sustainably healthy
-* Acupuncture works, somehow
-* Vaccinations are good for babies and society
+* There are no original ideas. All ideas evolve from previous ones.
+* Ideas are worthless. Execution is everything.
+* Ship.
+
+On Politics
+-----------
+* Business interfering with government is as bad as governments interfering with business
+* We will invent an economic system that doesn't need patents or copyright
+* Who governs least governs best
 
 On Technology
 -------------
-* Computers will be building better computers than humans by 2050 (the Singularity)
-* Humans, computers, and Earth will evolve into a super organism by 2200 (if we're still around)
-* Humans that embrace change (and give up some of their humanity) will survive the Singularity
-* Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics)
+* We shall merge with machines, before they overtake us
+* Technology decentralizes business and politics
+* Flying cars are just helicopters
 
-On The Self
------------
-* Free will is mostly an illusion (but does exist in limited form)
-* Pure altruism is an illusion (but kindness is not)
-* We tell stories in order to create and remember meaning
-* Consciousness is the result of a feedback loop between our story-making cortex and our subconscious (ain't it nice though?)
-* Giving up our privacy and individuality in exchange for better connection will be the norm by 2050
+On Philosophy
+-------------
+* Morals are just emotional heuristics for maintaining social order
+* Free will doesn't exist, nor does that matter
+* There is no single, consistent self
 
-On Logic
---------
-* Most questions have no answer (asking them anyway is sometimes entertaining, but nothing else) 
-* Logic is a helpful tool, but has flaws and can't be relied on entirely
-
-On Aliens & Time/Space Travel
------------------------------
-* Aliens exist
-* Non-carbon-based life forms exist
-* Space travel throughout the universe is probably entirely the domain of robots and cyborgs
-* Forwards time-travel is possible, but backwards is not
-* I haven't entirely ruled out a Matrix-like origin story for the universe
+On Spirituality
+---------------
+* We don't have a purpose given to us - we create our own
+* We do not have immortal souls
+* There are no god(s)
 
 On Education
 ------------
-* Something will replace universities as we currently know them by 2030
-
-On Politics & The Economy
--------------------------
-* Most jobs lost in 2008-present aren't going to come back, new ones have to be created from scratch
-* In the future, working will be more thoroughly decoupled from having the means to live
-* We'll have a President that admits to being atheist or agnostic by 2025
-* Power will be more quickly redistributed when it gets too heavy at the top
-
-On Biases
----------
-* We tend to favor the beautiful
-* We tend to see what we expect to see
-* We tend to attribute too much credit to success (and under-credit luck)
-
-On Love
--------
-* Soulmates exist
-* Love at first sight happens
+* The higher education bubble is already collapsing
+* The current one-size-fits-all education model will be replaced
+* Online education will supplement, not supplant meatspace education
 
 Meta
 ----
-* We have very little control over what we believe in
-* Some of my beliefs will be proven wrong
-* I'm willing to be convinced that my beliefs are wrong
+* Who I am changes
+* Show me where I'm wrong, so I can learn what's right
 * Making and maintaining this list is useful and fun (you should do it too)
